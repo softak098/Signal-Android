@@ -836,6 +836,11 @@
   <string name="NotificationBarManager__answer_call">Respon la trucada</string>
   <string name="NotificationBarManager__end_call">Acaba la trucada</string>
   <string name="NotificationBarManager__cancel_call">Cancel·la la trucada</string>
+  <!--NotificationsMegaphone-->
+  <string name="NotificationsMegaphone_turn_on_notifications">Voleu activar les notificacions?</string>
+  <string name="NotificationsMegaphone_never_miss_a_message">No us perdeu mai cap missatge dels contactes i dels grups.</string>
+  <string name="NotificationsMegaphone_turn_on">Activa</string>
+  <string name="NotificationsMegaphone_not_now">Ara no</string>
   <!--NotificationMmsMessageRecord-->
   <string name="NotificationMmsMessageRecord_multimedia_message">Missatge multimèdia</string>
   <string name="NotificationMmsMessageRecord_downloading_mms_message">Es baixa el missatge MMS</string>
@@ -1241,6 +1246,7 @@ especificat (%s) no és vàlid.</string>
   <string name="RegistrationActivity_continue">Continua</string>
   <string name="RegistrationActivity_take_privacy_with_you_be_yourself_in_every_message">Porteu a sobre la privadesa.\nSigueu vosaltres mateixos a cada missatge.</string>
   <string name="RegistrationActivity_enter_your_phone_number_to_get_started">Per començar, marqueu el número de telèfon.</string>
+  <string name="RegistrationActivity_enter_your_phone_number">Marqueu el número de telèfon.</string>
   <string name="RegistrationActivity_you_will_receive_a_verification_code">Rebreu un codi de verificació. La vostra operadora podria aplicar algun càrrec.</string>
   <string name="RegistrationActivity_enter_the_code_we_sent_to_s">Marqueu el codi que hem enviat a %s</string>
   <string name="RegistrationActivity_make_sure_your_phone_has_a_cellular_signal">Assegureu-vos que el telèfon té cobertura per a rebre missatges SMS o trucades.</string>
